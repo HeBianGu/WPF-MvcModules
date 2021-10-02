@@ -1,0 +1,13 @@
+D:\GitHub\WPF-MvcModules\Product\Debug\Module\HeBianGu.Module.DemoA.dll
+D:\GitHub\WPF-MvcModules\Product\Debug\Module\HeBianGu.Module.DemoA.pdb
+D:\GitHub\WPF-MvcModules\Source\Module\HeBianGu.Module.DemoA\obj\Debug\HeBianGu.Module.DemoA.csproj.AssemblyReference.cache
+D:\GitHub\WPF-MvcModules\Source\Module\HeBianGu.Module.DemoA\obj\Debug\View\Module\ModuleControl.g.cs
+D:\GitHub\WPF-MvcModules\Source\Module\HeBianGu.Module.DemoA\obj\Debug\HeBianGu.Module.DemoA_MarkupCompile.cache
+D:\GitHub\WPF-MvcModules\Source\Module\HeBianGu.Module.DemoA\obj\Debug\HeBianGu.Module.DemoA_MarkupCompile.lref
+D:\GitHub\WPF-MvcModules\Source\Module\HeBianGu.Module.DemoA\obj\Debug\View\Module\ModuleControl.baml
+D:\GitHub\WPF-MvcModules\Source\Module\HeBianGu.Module.DemoA\obj\Debug\HeBianGu.Module.DemoA.g.resources
+D:\GitHub\WPF-MvcModules\Source\Module\HeBianGu.Module.DemoA\obj\Debug\HeBianGu.Module.DemoA.Properties.Resources.resources
+D:\GitHub\WPF-MvcModules\Source\Module\HeBianGu.Module.DemoA\obj\Debug\HeBianGu.Module.DemoA.csproj.GenerateResource.cache
+D:\GitHub\WPF-MvcModules\Source\Module\HeBianGu.Module.DemoA\obj\Debug\HeBianGu.Module.DemoA.csproj.CoreCompileInputs.cache
+D:\GitHub\WPF-MvcModules\Source\Module\HeBianGu.Module.DemoA\obj\Debug\HeBianGu.Module.DemoA.dll
+D:\GitHub\WPF-MvcModules\Source\Module\HeBianGu.Module.DemoA\obj\Debug\HeBianGu.Module.DemoA.pdb
